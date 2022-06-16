@@ -2,11 +2,10 @@
     event.preventDefault(); // Aqui irá ocorrer o evento de previnir a ação padrão do formulário 'submit', que seria enviar as informações
 
     let input = document.querySelector('#searchInput').value; // Neste campo teremos detalhes da informação que o usuário digitou em input
-    
+  
     if(input !== '') {
         clearInfo();  // Função usada para limpar a informação antes de aparecer o aviso
         showWarning('Carregando...');
-
 
     let url = `https://api.checkwx.com/metar/${(input)}/decoded`
     let results = '';
