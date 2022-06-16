@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(/images/airport.jpg);
+    background-size: cover;
+    font-weight: bold;
+    color: #FFF;
+    background-blend-mode: darken;
+    background-color: rgba(0,0,0, 0.80);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1 {
+    color: #FFF;
+    margin: 20px 0;
+    font-size: 45px;
+}
+
+.search-info {
+    display: flex;
+    width: 300px;
+}
+.search-info #searchInput {
+    flex: 1;
+    padding: 10px;
+    outline: none;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 0;
+}
+.search-info button {
+    padding: 10px;
+    font-size: 15px;
+    border: 0;
+    background-color: #555;
+    color: #FFF;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.search-info button:hover {
+    background-color: #444;
+}
+
+.main-info {
+    display: flex;
+    padding: 15px;
+}
+
+.result #metarInfo {
+    display: none;
+}
+
+footer {
+    margin-top: 50px;
+    color: #FFF;
+    font-size: 13px;
+}
