@@ -5,7 +5,7 @@
 
 pt-BR
 
-Projeto de consulta meteorológica instantanea para pilotos de avião.
+Projeto de consulta meteorológica instantânea para pilotos de avião.
 
 O projeto tem a intenção de praticar as skills no HTML, CSS e principalmente no JavaScript, todos os dados são capturados da API: https://www.checkwxapi.com/
 
