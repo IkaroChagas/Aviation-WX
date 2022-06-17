@@ -3,7 +3,7 @@
 
 ## Entenda um pouco sobre o meu projeto:
 
-PT-br
+pt-BR
 
 Projeto de consulta meteorológica instantanea para pilotos de avião.
 
@@ -18,7 +18,7 @@ Informações detalhadas sobre o alfabeto fonético: https://skybrary.aero/artic
 
 Informações detalhadas sobre o METAR: https://skybrary.aero/articles/meteorological-terminal-air-report-metar
 
-EN-us
+en-US
 
 ## Understand a little about my project:
 
