@@ -1,6 +1,9 @@
 # Aviation-WX
 
 
+UPDATE 18/06 (TAF adicionado, TAF Added)
+
+
 ## Entenda um pouco sobre o meu projeto:
 
 pt-BR
