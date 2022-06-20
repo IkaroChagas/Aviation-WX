@@ -25,7 +25,7 @@ en-US
 
 ## Understand a little about my project:
 
-Instant meteorological consultation project for airline pilots.
+Instant meteorological consultation project for airplane pilots.
 
 The project intends to practice skills in HTML, CSS and especially JavaScript, all data is captured from the API: https://www.checkwxapi.com/
 
